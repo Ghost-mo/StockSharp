@@ -30,7 +30,7 @@
                             <ComboBoxItem Content="12 minute" Tag="12"/>
                             <ComboBoxItem Content="15 minute" Tag="15"/>
                             <ComboBoxItem Content="30 minute" Tag="30"/>
-                            <ComboBoxItem Content="1 hour" Tag="600"/>
+                            <ComboBoxItem Content="1 hour" Tag="60"/>
                             <ComboBoxItem Content="2 hour" Tag="120"/>
                             <ComboBoxItem Content="4 hour" Tag="240"/>
                             <ComboBoxItem Content="day" Tag="1440"/>
